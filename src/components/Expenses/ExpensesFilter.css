@@ -1,0 +1,16 @@
+.filterContainer {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  font-weight: 600;
+  padding: 1rem;
+}
+
+.filter {
+  font-weight: 600;
+  border-radius: 5px;
+  padding: 0.5rem 2rem;
+}

@@ -1,0 +1,5 @@
+.card {
+  border-radius: 12px;
+  /* BOX SHADOW = OFFSET-X, OFFSET Y, BLUR-RADIUS, SPREAD-RADIUS, COLOR */
+  box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
+}

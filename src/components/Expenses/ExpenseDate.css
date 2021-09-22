@@ -1,0 +1,27 @@
+.date-container {
+  width: 5.5rem;
+  height: 5.5rem;
+  font-size: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: white 0.9px solid;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.month,
+.year {
+  font-size: 0.75rem;
+}
+
+.month {
+  font-weight: 600;
+}
+
+.day {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
