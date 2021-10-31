@@ -1,11 +1,13 @@
 # React-Expenses-Tracker
 ## Screenshots
 <div align="left">
-<img src="https://user-images.githubusercontent.com/89041463/134781522-ff7e0e8c-3e44-4c36-bd59-69adf6493eee.png" width="49%" height=450px/>
-<img src="https://user-images.githubusercontent.com/89041463/134781976-47ba0964-1306-441a-a43b-85d1b28dfcda.png" width="49%" height=450px/>
-<img src="https://user-images.githubusercontent.com/89041463/134781780-801bbbec-d6f5-4c2c-9b49-7f71fd16e22c.png" width="49%" height=240px/>
-<img src="https://user-images.githubusercontent.com/89041463/134781906-77a36e1d-fb10-4d1b-8a5d-c9768ce663c2.png" width="49%" height=240px/>
+<img src="https://user-images.githubusercontent.com/89041463/139583284-dcdf9123-8aa5-4d8b-bc90-872f47b65ce8.png" width="49%" height='520px'/>
+<img src="https://user-images.githubusercontent.com/89041463/139583285-51a1328b-9955-4e27-8423-3dcf925ab690.png" width="49%" height='520px'/>
+<img src="https://user-images.githubusercontent.com/89041463/139583281-c176b219-132a-4b72-9c4c-1cb43e06e05b.png" width="49%" height='525px'/>
+<img src="https://user-images.githubusercontent.com/89041463/139583282-b8943807-d98c-400a-8faa-8ad1c4e21b11.png" width="49%" height='525px'/>
+<img src="https://user-images.githubusercontent.com/89041463/139583283-397ea5aa-93b8-4673-9250-5721f227c9c9.png" width="49%" />
 </div>
+
 
 ## Summary
 
